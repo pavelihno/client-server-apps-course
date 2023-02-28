@@ -5,6 +5,9 @@ body {
 code {
     font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New', monospace;
 }
+.underline {
+    text-decoration: underline;
+}
 .column-flex {
     display: flex;
     flex-direction: column;
