@@ -1,0 +1,23 @@
+body {
+    margin: 0;
+    font-family: 'Segoe UI', 'Roboto', 'Oxygen', 'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue', sans-serif;
+}
+code {
+    font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New', monospace;
+}
+.column-flex {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.row-flex {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+.poster {
+    height: auto;
+    width: auto;
+    max-width: 512px;
+    max-height: 512px;
+}
